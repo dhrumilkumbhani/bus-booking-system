@@ -1,0 +1,14 @@
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\bin\Debug\BusTicketSystem.exe.config
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\bin\Debug\BusTicketSystem.exe
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\bin\Debug\BusTicketSystem.pdb
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.csprojAssemblyReference.cache
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.Form1.resources
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.Properties.Resources.resources
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.csproj.GenerateResource.cache
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.csproj.CoreCompileInputs.cache
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.exe
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.pdb
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.buslist.resources
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.addbus.resources
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.cancellation.resources
+E:\ganpat\Project\BusTicketSystem\BusTicketSystem\obj\Debug\BusTicketSystem.Print.resources
